@@ -14,7 +14,7 @@ state: Offtopic
             a: Прошу прощения, не поняла Вас. 
 
     state: Offtopic, noChangeState = true
-asdasdasd
+ Привет из админки
         state: Как Вас зовут, noChangeState = true
             q: * мо* [я] $you * (называть|звать) * ?, fromState = /
             q: * мо* [я] * (называть|звать) $you * ?, fromState = /
