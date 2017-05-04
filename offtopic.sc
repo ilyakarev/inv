@@ -14,7 +14,7 @@ state: Offtopic
             a: Прошу прощения, не поняла Вас. 
 
     state: Offtopic, noChangeState = true
-This is hello from admin panel, bitch123123123!
+This is hello from admin panel!
 
         state: Как Вас зовут, noChangeState = true
             q: * мо* [я] $you * (называть|звать) * ?, fromState = /
