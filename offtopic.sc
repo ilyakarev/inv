@@ -16,7 +16,6 @@ state: Offtopic
     state: Offtopic, noChangeState = true
         state: NewState
             q: Жесткий ржачь
-            q: Тупой ржачь
             q: * ты (идиот|тупая тварь)
             a: Ответ
             
