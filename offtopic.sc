@@ -16,6 +16,7 @@ state: Offtopic
     state: Offtopic, noChangeState = true
         state: NewState
             q: Жесткий ржачь
+            q: Тупой ржачь
             a: Ответ
             
         state: Как Вас зовут, noChangeState = true
