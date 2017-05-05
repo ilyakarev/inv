@@ -17,7 +17,7 @@ state: Offtopic
         state: NewState
             q: Жесткий ржачь
             q: * ты (идиот|тупая тварь)
-            a: Ответ
+            a: Ответ 123
             
         state: Как Вас зовут, noChangeState = true
             q: * мо* [я] $you * (называть|звать) * ?, fromState = /
